@@ -1,0 +1,10 @@
+# Python
+__pycache__/
+*.pyc
+
+# Arduino IDE auto-generated build artifacts (if any leak in locally)
+*.hex
+
+# OS clutter
+.DS_Store
+Thumbs.db
